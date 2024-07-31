@@ -19,7 +19,7 @@ The application also supports changing student grades and retrieving specific st
 ## How to Use
 1. Clone the repository:
     ```
-    git clone [https://github.com/yourusername/Gradebook.git](https://github.com/arauzemilio22/Gradebook-Project)
+    git clone https://github.com/arauzemilio22/Gradebook-Project
     ```
 2. Navigate to the project directory:
     ```
